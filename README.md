@@ -9,7 +9,7 @@ Django 3.x
 
 W tym projekcie, w obecnej formie, jest zaprojektowana jedynie baza danych złożona z dwóch modeli. 
 
-Modele w bazie danych
+Modele w bazie danych <<<
 W bazie danych zaimplementowane są dwa modele:
 
 
